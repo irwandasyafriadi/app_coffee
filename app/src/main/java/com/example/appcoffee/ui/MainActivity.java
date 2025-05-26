@@ -1,8 +1,10 @@
-package com.example.appcoffee;
+package com.example.appcoffee.ui;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.appcoffee.R;
 
 
 public class MainActivity extends AppCompatActivity {
