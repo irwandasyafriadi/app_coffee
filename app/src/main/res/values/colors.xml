@@ -2,6 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#6200EE</color>
+    <color name="gray">#E0E0E0</color>
     <color name="cafe_biru">#60B5FF</color>
-
+    <color name="category_button_text_selected">#FFFFFF</color>
+    <color name="primary_dark">#4E342E</color>
+    <color name="gray_light">#EEEEEE</color>
+    <color name="primary_light">#D7CCC8</color>
+    <color name="category_button_text">#FFFFFF</color>
+    <color name="bottom_nav_text">#000000</color>
+        <color name="colorPrimary">#6200EE</color>
+        <color name="gray_dark">#333333</color>
 </resources>
